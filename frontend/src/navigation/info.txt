@@ -1,0 +1,1 @@
+navigation: Navigation configuration (navBar)

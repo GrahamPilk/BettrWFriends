@@ -1,0 +1,1 @@
+screens: app screens (Sessions, Friends, Stats) 
